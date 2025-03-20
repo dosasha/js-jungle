@@ -3,6 +3,6 @@ let accountEmail = "archisha@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
 
-accountID = 2
+accountID = 2;
 
 console.log(accountID);
